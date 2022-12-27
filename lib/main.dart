@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:projeto_perguntas/questionario.dart';
 
 import './resultado.dart';
-import './questionario.dart';
 
 main() => runApp(const PerguntaApp());
 
